@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import Signup from './components/Signup';
 import Footer from './components/Footer';
 import BTCTracker from './components/BTCtracker';
+import AllCoins from './components/AllCoins';
 // import BTCtracker from './components/BTCtracker';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Featured />
       <Signup />
       <BTCTracker />
+      <AllCoins />
       <Footer />
     </>
   );
