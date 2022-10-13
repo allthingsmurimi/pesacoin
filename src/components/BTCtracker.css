@@ -1,0 +1,22 @@
+div {
+   text-align: center;
+}
+
+h5 {
+    color:181818;
+
+}
+
+@media screen and (max-width: 940px) {
+    div {
+        text-align: center;
+    }
+    h5 {
+        color:181818;
+    }
+}
+    @media screen and (max-width:478px) {
+        div {
+            text-align: center;
+        }
+    }
