@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pesacoin/static/css/main.3b1cdd5f.css",
+    "main.js": "/pesacoin/static/js/main.55c5fa78.js",
+    "static/media/trade.png": "/pesacoin/static/media/trade.a2c09083fbde76e9cac2.png",
+    "static/media/hero-img.png": "/pesacoin/static/media/hero-img.66b9eb77caa3ac6d4fe8.png",
+    "index.html": "/pesacoin/index.html",
+    "main.3b1cdd5f.css.map": "/pesacoin/static/css/main.3b1cdd5f.css.map",
+    "main.55c5fa78.js.map": "/pesacoin/static/js/main.55c5fa78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b1cdd5f.css",
+    "static/js/main.55c5fa78.js"
+  ]
+}
